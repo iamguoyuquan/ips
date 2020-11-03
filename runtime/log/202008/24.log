@@ -1,0 +1,3778 @@
+---------------------------------------------------------------
+[ 2020-08-24T21:43:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.675458s] [吞吐率：1.48req/s] [内存消耗：4,115.95kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000413s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.045316s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.045362s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000654s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:53453',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wxb667b1ed83590b70/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=bsm9qofrfjucrpq0ujbghsv1vo; path=/',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.021909s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:45:33+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.394720s] [吞吐率：2.53req/s] [内存消耗：4,115.97kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000087s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.029051s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.029083s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.002031s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:53453',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=bsm9qofrfjucrpq0ujbghsv1vo; path=/',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.018537s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:47:30+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.473819s] [吞吐率：2.11req/s] [内存消耗：4,115.97kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002533s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.015301s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.015330s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000822s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:53453',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=bsm9qofrfjucrpq0ujbghsv1vo; path=/',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.007341s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:48:26+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.285217s] [吞吐率：3.51req/s] [内存消耗：4,115.97kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001267s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.030205s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.030234s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000630s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:41468',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'PHPSESSID=bsm9qofrfjucrpq0ujbghsv1vo; path=/',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003741s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:50:56+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.726152s] [吞吐率：1.38req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009552s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.047504s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.047533s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000530s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002897s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.516552s] [吞吐率：1.94req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003623s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.021057s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.021135s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000748s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004861s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.680962s] [吞吐率：1.47req/s] [内存消耗：4,088.30kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000073s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.054080s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.054114s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000231s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => '13800010003',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.019904s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.642996s] [吞吐率：1.56req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000085s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.033220s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.033246s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000231s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.005292s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.251614s] [吞吐率：3.97req/s] [内存消耗：4,207.43kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.029476s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.029506s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000227s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.026978s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.109428s] [吞吐率：9.14req/s] [内存消耗：4,207.73kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000044s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005204s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005342s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000261s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001687s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:26+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.archives/recommend
+[运行时间：0.309994s] [吞吐率：3.23req/s] [内存消耗：4,529.85kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.041021s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.041075s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000191s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '50',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'admin_ids' => '4,15',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.archives',
+  'action' => 'recommend',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.031423s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:51:26+08:00 ] 127.0.0.1 GET az-ips.com/
+[运行时间：0.329618s] [吞吐率：3.03req/s] [内存消耗：3,079.04kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002087s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.036020s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.036754s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.001774s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/10 miniprogram port/16332 token/d5279dced57016f55487735263d0ac35',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.019300s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000032s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:30+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.300126s] [吞吐率：3.33req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000085s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.017915s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.017939s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000555s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003770s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:31+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.171944s] [吞吐率：5.82req/s] [内存消耗：4,088.30kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.009687s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009718s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000240s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => '13800010003',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003238s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:31+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.203730s] [吞吐率：4.91req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000075s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.014426s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.014489s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000301s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.006177s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:31+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.090165s] [吞吐率：11.09req/s] [内存消耗：4,207.43kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.006645s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006686s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000205s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002192s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:32+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.274888s] [吞吐率：3.64req/s] [内存消耗：4,207.73kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.006672s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006714s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000246s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002674s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:32+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.archives/recommend
+[运行时间：0.107952s] [吞吐率：9.26req/s] [内存消耗：4,529.85kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004379s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004409s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000593s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '50',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'admin_ids' => '4,15',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.archives',
+  'action' => 'recommend',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001279s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:32+08:00 ] 127.0.0.1 GET az-ips.com/
+[运行时间：0.203900s] [吞吐率：4.90req/s] [内存消耗：3,079.04kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000083s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.032919s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.032956s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000339s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/14 miniprogram port/16332 token/d5279dced57016f55487735263d0ac35',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.016070s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000059s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:44+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.238350s] [吞吐率：4.20req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001097s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.033702s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.033737s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000904s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.005283s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:44+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.109842s] [吞吐率：9.10req/s] [内存消耗：4,088.30kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.011156s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011195s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000335s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => '13800010003',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003468s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:44+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.076340s] [吞吐率：13.10req/s] [内存消耗：4,207.43kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002566s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002594s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000264s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001582s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:45+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.661514s] [吞吐率：1.51req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001644s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.066739s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.067147s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.001725s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.027755s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:45+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.archives/recommend
+[运行时间：0.086937s] [吞吐率：11.50req/s] [内存消耗：4,529.85kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004191s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004235s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000256s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '50',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'admin_ids' => '4,15',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.archives',
+  'action' => 'recommend',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001631s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:45+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.330105s] [吞吐率：3.03req/s] [内存消耗：4,207.73kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.046228s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.046261s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000309s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.054872s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:54:46+08:00 ] 127.0.0.1 GET az-ips.com/
+[运行时间：0.145545s] [吞吐率：6.87req/s] [内存消耗：3,079.04kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000053s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.028400s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.028429s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000270s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/17 miniprogram port/16332 token/d5279dced57016f55487735263d0ac35',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.015953s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000053s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:34+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.192694s] [吞吐率：5.19req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000696s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.010850s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010885s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000860s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003931s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:34+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.076406s] [吞吐率：13.09req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000054s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002868s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002887s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000169s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001792s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:34+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.134263s] [吞吐率：7.45req/s] [内存消耗：4,088.30kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000067s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.007883s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007911s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000248s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => '13800010003',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.007421s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:34+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.100386s] [吞吐率：9.96req/s] [内存消耗：4,207.43kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.032611s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.032633s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000152s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004562s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:35+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.087747s] [吞吐率：11.40req/s] [内存消耗：4,207.73kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003655s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003683s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000267s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003290s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:35+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.archives/recommend
+[运行时间：0.107486s] [吞吐率：9.30req/s] [内存消耗：4,529.85kb] [文件加载：150]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000044s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004710s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004737s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000226s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '50',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'admin_ids' => '4,15',
+  'user_id' => '6',
+  'token' => 'undefined',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.archives',
+  'action' => 'recommend',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003548s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:56:35+08:00 ] 127.0.0.1 GET az-ips.com/
+[运行时间：0.083955s] [吞吐率：11.91req/s] [内存消耗：3,079.04kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000055s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005506s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005538s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000393s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/21 miniprogram port/16332 token/d5279dced57016f55487735263d0ac35',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002688s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/lang/zh-cn/index.php
+[ info ] [ RUN ] app\index\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/index/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/index/view/index/index.html [ array (
+  0 => 'user',
+  1 => 'site',
+  2 => 'config',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000091s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:39+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.223799s] [吞吐率：4.47req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000050s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.029332s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.029365s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000922s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.021775s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:39+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.070533s] [吞吐率：14.18req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000040s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003305s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003323s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000173s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001841s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:39+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.124858s] [吞吐率：8.01req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000066s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.008825s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008928s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000176s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003716s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:39+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.051734s] [吞吐率：19.33req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002061s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002080s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000158s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001541s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.069018s] [吞吐率：14.49req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000052s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003950s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003969s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000184s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002171s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.053946s] [吞吐率：18.54req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003994s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004026s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000203s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002473s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.073401s] [吞吐率：13.62req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.008707s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008727s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000168s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003038s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:57:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.044902s] [吞吐率：22.27req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002694s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002714s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000162s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001055s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:58:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.121161s] [吞吐率：8.25req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005433s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005454s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000623s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003097s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:58:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.054168s] [吞吐率：18.46req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003001s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003027s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000218s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001450s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:58:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.103817s] [吞吐率：9.63req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000044s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004327s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004350s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000168s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.006224s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T21:58:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.042182s] [吞吐率：23.71req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002159s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002177s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000209s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000959s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:17+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.160045s] [吞吐率：6.25req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.009461s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009483s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000735s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.003374s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:17+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.069871s] [吞吐率：14.31req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000040s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003748s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003776s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000251s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002470s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:17+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.069883s] [吞吐率：14.31req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003199s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003225s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000248s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001533s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:17+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.062254s] [吞吐率：16.06req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002772s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002793s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000243s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001332s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:41+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.187879s] [吞吐率：5.32req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.016864s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.016890s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.002468s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004754s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:41+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.050679s] [吞吐率：19.73req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003309s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003334s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000231s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001685s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:41+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.047662s] [吞吐率：20.98req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001924s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001978s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000166s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000998s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:00:41+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.042158s] [吞吐率：23.72req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002031s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002050s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000147s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000992s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:01:42+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.807544s] [吞吐率：1.24req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.048056s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.048090s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000557s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.011350s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:01:42+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.109309s] [吞吐率：9.15req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000107s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003051s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003072s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000154s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001521s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:01:42+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.126329s] [吞吐率：7.92req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.018397s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.018415s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000164s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.007157s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:01:42+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.060060s] [吞吐率：16.65req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001923s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001943s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000152s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001029s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:11+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.127484s] [吞吐率：7.84req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.006400s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006422s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000562s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002732s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.061845s] [吞吐率：16.17req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003810s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003837s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000222s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002817s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.067088s] [吞吐率：14.91req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000054s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003617s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003636s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000167s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001746s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.047521s] [吞吐率：21.04req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003386s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003457s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000256s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001694s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.114582s] [吞吐率：8.73req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000559s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004995s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005018s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000544s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004978s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.040783s] [吞吐率：24.52req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002097s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002115s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000180s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001054s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.057224s] [吞吐率：17.48req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000050s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003006s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003024s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000167s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001891s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.044075s] [吞吐率：22.69req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002306s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002324s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000150s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001169s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:35+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.058340s] [吞吐率：17.14req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000017s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001928s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001953s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000260s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001556s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:35+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.052795s] [吞吐率：18.94req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000022s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002840s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002866s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000219s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001326s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:36+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.066430s] [吞吐率：15.05req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002765s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002800s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000173s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001364s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:02:36+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.040563s] [吞吐率：24.65req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001877s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001895s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000149s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000929s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.126612s] [吞吐率：7.90req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000048s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.009295s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009325s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000509s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002673s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.050579s] [吞吐率：19.77req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002573s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002590s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000169s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.000919s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.059784s] [吞吐率：16.73req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000019s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003834s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003853s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000169s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001314s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:12+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.038842s] [吞吐率：25.75req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001827s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001845s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000149s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001181s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:55+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.103328s] [吞吐率：9.68req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000134s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005036s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005063s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000601s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002965s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:55+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.047522s] [吞吐率：21.04req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000016s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002637s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002656s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000221s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001307s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:55+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.057003s] [吞吐率：17.54req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002933s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002953s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000227s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001666s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:03:55+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.040544s] [吞吐率：24.66req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002753s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002773s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000150s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001364s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:04:25+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.common/init
+[运行时间：0.105438s] [吞吐率：9.48req/s] [内存消耗：4,115.13kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004408s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004428s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000849s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '7',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002729s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:04:26+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/loginByMobile
+[运行时间：0.059408s] [吞吐率：16.83req/s] [内存消耗：4,083.73kb] [文件加载：138]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000021s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004309s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004406s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000232s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '16',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'mobile' => 'undefined',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'loginByMobile',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001971s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:04:26+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.056709s] [吞吐率：17.63req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000077s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003703s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003721s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000245s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002380s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-08-24T22:04:26+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/doctor
+[运行时间：0.078726s] [吞吐率：12.70req/s] [内存消耗：4,172.54kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000024s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.007157s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007186s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000963s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'origin' => 'http://127.0.0.1:30736',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 wechatdevtools/1.03.2005140 MicroMessenger/7.0.4 Language/zh_CN webview/',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'referer' => 'https://servicewechat.com/wx7c2f755afb509ad7/devtools/page-frame.html',
+  'accept-encoding' => 'gzip, deflate',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+  '_ajax' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'doctor',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004292s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

@@ -1,0 +1,6 @@
+[ 2020-08-15T13:39:45+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002189s ]
+[ info ] [ LOG ] INIT File
+[ 2020-08-15T13:39:45+08:00 ][ info ] [ CACHE ] INIT File
+[ 2020-08-15T13:39:45+08:00 ][ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005427s ]
+[ 2020-08-15T13:39:45+08:00 ][ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005554s ]
+[ 2020-08-15T13:39:45+08:00 ][ info ] [ DB ] INIT mysql

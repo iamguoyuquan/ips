@@ -1,0 +1,256 @@
+---------------------------------------------------------------
+[ 2020-11-02T12:52:14+08:00 ] 127.0.0.1 GET dev.az.com/TRDCIpiWJl.php
+[运行时间：0.174444s] [吞吐率：5.73req/s] [内存消耗：3,802.60kb] [文件加载：132]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000110s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.013686s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.013747s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000602s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'uid=dev5f8185a55d64a1.03596663; keeplogin=1%7C86400%7C1603855537%7C2ffd25fbf924874365dc9083be2e5269; YPF8827340282Jdskjhfiw_928937459182JAX666=193.111.30.229; SRV=lander04|X5+Qc|X5+Qc',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36',
+  'host' => 'dev.az.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004338s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] /private/var/www/work/shuxin/ips/public/../application/common/view/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000106s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000364s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-02T12:52:16+08:00 ] 127.0.0.1 GET dev.az.com/TRDCIpiWJl.php/index/login?url=%2FTRDCIpiWJl.php
+[运行时间：0.075540s] [吞吐率：13.24req/s] [内存消耗：4,155.25kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000067s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.008661s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.008727s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000229s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'referer' => 'http://dev.az.com/TRDCIpiWJl.php',
+  'cookie' => 'uid=dev5f8185a55d64a1.03596663; keeplogin=1%7C86400%7C1603855537%7C2ffd25fbf924874365dc9083be2e5269; YPF8827340282Jdskjhfiw_928937459182JAX666=193.111.30.229; SRV=lander04|X5+Qc|X5+Qc; PHPSESSID=1kqrg6fdh0gu1m6ojli404j48t',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36',
+  'host' => 'dev.az.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/TRDCIpiWJl.php',
+)
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006470s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000695s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ /private/var/www/work/shuxin/ips/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /private/var/www/work/shuxin/ips/public/../application/admin/view/index/login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000116s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000165s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-02T12:52:17+08:00 ] 127.0.0.1 GET dev.az.com/TRDCIpiWJl.php/index/login?url=%2FTRDCIpiWJl.php
+[运行时间：0.091595s] [吞吐率：10.92req/s] [内存消耗：3,875.98kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002754s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.010346s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.010422s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000247s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'referer' => 'http://dev.az.com/TRDCIpiWJl.php',
+  'cookie' => 'uid=dev5f8185a55d64a1.03596663; keeplogin=1%7C86400%7C1603855537%7C2ffd25fbf924874365dc9083be2e5269; YPF8827340282Jdskjhfiw_928937459182JAX666=193.111.30.229; SRV=lander04|X5+Qc|X5+Qc; PHPSESSID=1kqrg6fdh0gu1m6ojli404j48t',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36',
+  'host' => 'dev.az.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/TRDCIpiWJl.php',
+)
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.008739s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000331s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ /private/var/www/work/shuxin/ips/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /private/var/www/work/shuxin/ips/public/../application/admin/view/index/login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000205s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.001610s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-02T12:52:21+08:00 ] 127.0.0.1 GET dev.az.com/index.php?s=/captcha
+[运行时间：0.060179s] [吞吐率：16.62req/s] [内存消耗：2,709.02kb] [文件加载：117]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000072s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.009126s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.009235s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.002637s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://dev.az.com/TRDCIpiWJl.php/index/login?url=%2FTRDCIpiWJl.php',
+  'cookie' => 'uid=dev5f8185a55d64a1.03596663; keeplogin=1%7C86400%7C1603855537%7C2ffd25fbf924874365dc9083be2e5269; YPF8827340282Jdskjhfiw_928937459182JAX666=193.111.30.229; SRV=lander04|X5+Qc|X5+Qc; PHPSESSID=1kqrg6fdh0gu1m6ojli404j48t',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'image/avif,image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36',
+  'host' => 'dev.az.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ /private/var/www/work/shuxin/ips/vendor/topthink/think-captcha/src/CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-11-02T12:52:21+08:00 ] 127.0.0.1 GET dev.az.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=index&v=1604292737
+[运行时间：0.073848s] [吞吐率：13.54req/s] [内存消耗：3,880.53kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000103s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.011863s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011931s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000215s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://dev.az.com/TRDCIpiWJl.php/index/login?url=%2FTRDCIpiWJl.php',
+  'cookie' => 'uid=dev5f8185a55d64a1.03596663; keeplogin=1%7C86400%7C1603855537%7C2ffd25fbf924874365dc9083be2e5269; YPF8827340282Jdskjhfiw_928937459182JAX666=193.111.30.229; SRV=lander04|X5+Qc|X5+Qc; PHPSESSID=1kqrg6fdh0gu1m6ojli404j48t',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36',
+  'host' => 'dev.az.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1604292737',
+)
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001763s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000255s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /private/var/www/work/shuxin/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000186s ]
+[ info ] [ LOG ] INIT File

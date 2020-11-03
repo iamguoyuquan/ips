@@ -1,0 +1,60 @@
+---------------------------------------------------------------
+[ 2020-10-29T10:58:28+08:00 ] 127.0.0.1 POST dev.az.com/addons/cms/wxapp.common/init
+[运行时间：0.137270s] [吞吐率：7.28req/s] [内存消耗：4,678.98kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000075s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.007512s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007572s ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000633s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-ver' => '2.8.8.2.pre',
+  'x-token' => '',
+  'x-tk' => 'ACHbsILmoPffJD9MtXnZDSM0fwHvAHinpMRtZW5ndHVp',
+  'x-tag' => 'junle_dev',
+  'x-plt' => '50',
+  'x-loc' => '',
+  'x-feature' => 'prime',
+  'x-dtu' => 'mt',
+  'x-device' => 'QUNIYnNJTG1vUGZmSkQ5TXRYblpEU00wZndIdkFIaW5wTVJ0Wlc1bmRIVnB8MTFlMmExOGU4ZDU2NjJiNWQwZWRhMTlkZmUyYzkyMWNkZGFkODZlOA==',
+  'x-chl' => 'mt_test',
+  'tuid' => '27CC5qD33yQ_TLV52Q0jNA',
+  'tk' => 'ACHbsILmoPffJD9MtXnZDSM0fwHvAHinpMRtZW5ndHVp',
+  'postman-token' => '5f6c5273-2483-41f1-a265-38b6e2838233',
+  'platform' => '50',
+  'pioneer' => 'innotechIM',
+  'cookie' => 'dis-remote-addr=193.111.30.229; dis-timestamp=2020-10-28T19:58:21-07:00; dis-request-id=624ba1678f481a1fb7901fc1bf58744d',
+  'content-type' => 'multipart/form-data; boundary=--------------------------284992265591190244613013',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip',
+  'accept' => 'image/webp',
+  'content-length' => '307',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.105 Mobile Safari/537.36 MengtuiApp/2.8.8.2.pre X-Feature/prime',
+  'host' => 'dev.az.com',
+)
+[ info ] [ PARAM ] array (
+  'patient_id' => '10',
+  'token' => 'c5e6a613-bee0-4982-9b93-46682ac765fc',
+  'addon' => 'cms',
+  'controller' => 'wxapp.common',
+  'action' => 'init',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /private/var/www/work/shuxin/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002486s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /private/var/www/work/shuxin/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File

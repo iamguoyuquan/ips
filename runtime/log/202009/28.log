@@ -1,0 +1,2009 @@
+---------------------------------------------------------------
+[ 2020-09-28T19:37:33+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.091287s] [吞吐率：10.95req/s] [内存消耗：3,834.88kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000199s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004018s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004038s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000871s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------119941715403714665783038',
+  'cache-control' => 'no-cache',
+  'postman-token' => '486a7c84-2811-4489-a9f8-20b44d0c8f6e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002364s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:39:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.070235s] [吞吐率：14.24req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000081s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004072s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004091s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000479s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------250416228893089302860642',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'a107911a-c0ce-488d-bda2-479007380497',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002062s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T19:42:18+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.069537s] [吞吐率：14.38req/s] [内存消耗：4,177.57kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000112s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003403s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003423s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000248s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------683136893226949267930940',
+  'cache-control' => 'no-cache',
+  'postman-token' => '8230c251-32b9-4abc-9ed4-b8555685aabd',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001750s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'where clause'[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-09-28T19:43:48+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.043577s] [吞吐率：22.95req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000101s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002176s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002195s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000179s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------598403160659711663898021',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'efe4cc32-082f-43f2-a03f-df86051e94b9',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001370s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T19:46:30+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.129493s] [吞吐率：7.72req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000145s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.007233s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.007263s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000554s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------420317193500360427825240',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b02641ab-b70e-4985-bfe8-a1145a89eb1a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.004180s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:458]
+---------------------------------------------------------------
+[ 2020-09-28T19:46:41+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.050494s] [吞吐率：19.80req/s] [内存消耗：4,058.03kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000155s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003540s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003572s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000195s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------508621690194140155043916',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'd673e93d-a4f9-4f19-8e86-fe8fce152789',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001834s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:47:30+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.048437s] [吞吐率：20.65req/s] [内存消耗：4,058.03kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000099s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003015s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003035s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000166s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------544712211998351917019034',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'fdf5fc82-e01c-410b-a456-670c400ed669',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001631s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:48:30+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.081787s] [吞吐率：12.23req/s] [内存消耗：4,176.64kb] [文件加载：145]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000138s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004478s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004499s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000463s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------487267659653874464293370',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c08e30b4-a6fb-42a6-ba27-78b1e95f04da',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002155s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'type' in 'where clause'[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2020-09-28T19:48:59+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.065349s] [吞吐率：15.30req/s] [内存消耗：4,058.03kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000121s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004193s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004218s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000280s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------522775833149927572951765',
+  'cache-control' => 'no-cache',
+  'postman-token' => '3fd253f1-0c04-42c5-825d-c1d9f275c61a',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001991s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:49:37+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.075462s] [吞吐率：13.25req/s] [内存消耗：4,058.03kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004445s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004465s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000275s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------011158235004581528895120',
+  'cache-control' => 'no-cache',
+  'postman-token' => '5c660534-1495-410e-bc97-deb58f49810f',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002390s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:50:06+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.043491s] [吞吐率：22.99req/s] [内存消耗：4,058.53kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000117s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002981s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003001s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000179s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------889787434538279157493790',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'b885caf5-eca3-47b1-939d-31fdd597600e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001482s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T19:50:29+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.039082s] [吞吐率：25.59req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002132s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002150s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000173s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------656938884762893094382888',
+  'cache-control' => 'no-cache',
+  'postman-token' => '72104f49-711d-43a5-a26c-c44cb8637b87',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001173s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T19:52:39+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.079307s] [吞吐率：12.61req/s] [内存消耗：4,148.23kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004670s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004690s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000468s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------720813401469913457597987',
+  'cache-control' => 'no-cache',
+  'postman-token' => '64f4dbba-f4db-41d6-8adc-02067b81bbb1',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002530s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientqaa[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T19:54:02+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.084191s] [吞吐率：11.88req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005052s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005074s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000539s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------195748635144778129155841',
+  'cache-control' => 'no-cache',
+  'postman-token' => '61d7da77-7dff-49db-88b6-9c64c2dc2e37',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002205s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T19:54:16+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.043210s] [吞吐率：23.14req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000032s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002920s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002953s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000181s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------130220654873233794144660',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'c72e424e-e79e-48c0-9847-70d57a8e83dc',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.001492s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T20:14:15+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.089213s] [吞吐率：11.21req/s] [内存消耗：4,148.20kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000036s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005066s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005087s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000531s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------258507980653775877945198',
+  'cache-control' => 'no-cache',
+  'postman-token' => 'eebe29d6-de6c-4b5a-8731-8cf8abee631f',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002211s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
+[ error ] [0]类不存在:app\admin\model\MedicalPatientReport[/Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/library/think/Loader.php:457]
+---------------------------------------------------------------
+[ 2020-09-28T20:22:44+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/wechat/doctor?ref=addtabs
+[运行时间：0.083779s] [吞吐率：11.94req/s] [内存消耗：4,193.02kb] [文件加载：136]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.004307s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004328s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000525s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'wechat.doctor',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'ref' => 'addtabs',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001716s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000377s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:44+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/index/index
+[运行时间：0.099095s] [吞吐率：10.09req/s] [内存消耗：4,786.01kb] [文件加载：152]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002566s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002587s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000256s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001401s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000851s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/view/index/index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'menulist',
+  6 => 'navlist',
+  7 => 'fixedmenu',
+  8 => 'referermenu',
+  9 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000036s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000095s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:44+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/dashboard?addtabs=1
+[运行时间：0.054145s] [吞吐率：18.47req/s] [内存消耗：4,483.05kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003231s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003251s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000163s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'dashboard',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001380s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000145s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ RUN ] app\admin\controller\Dashboard->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Dashboard.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/view/dashboard/index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'totaluser',
+  6 => 'totalviews',
+  7 => 'totalorder',
+  8 => 'totalorderamount',
+  9 => 'todayuserlogin',
+  10 => 'todayusersignup',
+  11 => 'todayorder',
+  12 => 'unsettleorder',
+  13 => 'sevendnu',
+  14 => 'sevendau',
+  15 => 'paylist',
+  16 => 'createlist',
+  17 => 'addonversion',
+  18 => 'uploadmode',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000034s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000088s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:44+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=index&v=1601295764
+[运行时间：0.057419s] [吞吐率：17.42req/s] [内存消耗：4,482.98kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002942s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002967s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000211s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/index/index',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1601295764',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001181s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000170s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000111s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:44+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=dashboard&v=1601295764
+[运行时间：0.077918s] [吞吐率：12.83req/s] [内存消耗：4,481.29kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002752s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002784s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000242s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/dashboard?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'dashboard',
+  'v' => '1601295764',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002696s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000217s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/dashboard.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000102s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:45+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/wechat/doctor?addtabs=1
+[运行时间：0.051863s] [吞吐率：19.28req/s] [内存消耗：4,435.44kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.003014s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003033s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000226s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'wechat.doctor',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/wechat/doctor?ref=addtabs',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001552s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000189s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/wechat/doctor.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/library/traits/Backend.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/view/wechat/doctor/index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000036s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000076s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:45+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=wechat.doctor&v=1601295765
+[运行时间：0.036426s] [吞吐率：27.45req/s] [内存消耗：4,478.65kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001959s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001978s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000152s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/wechat/doctor?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'wechat.doctor',
+  'v' => '1601295765',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000858s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000129s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/wechat/doctor.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000088s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:45+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/wechat/doctor/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1601295765640
+[运行时间：0.055734s] [吞吐率：17.94req/s] [内存消耗：4,487.66kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002374s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002394s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000164s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'wechat.doctor',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/wechat/doctor?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1601295765640',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001134s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000211s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/wechat/doctor.php
+[ info ] [ RUN ] app\common\controller\Backend->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/library/traits/Backend.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000117s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:49+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/patient?addtabs=1
+[运行时间：0.058364s] [吞吐率：17.13req/s] [内存消耗：4,804.04kb] [文件加载：144]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000023s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002712s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002728s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000164s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'patient',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/patient?ref=addtabs',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001299s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000127s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/patient.php
+[ info ] [ RUN ] app\admin\controller\Patient->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Patient.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/view/patient/index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'levelList',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000036s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000099s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:49+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=patient&v=1601295768
+[运行时间：0.034746s] [吞吐率：28.78req/s] [内存消耗：4,478.93kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001858s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001876s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000150s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/patient?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'patient',
+  'v' => '1601295768',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000850s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000128s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/patient.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000066s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:49+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/patient/index?sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1601295769077
+[运行时间：0.053771s] [吞吐率：18.60req/s] [内存消耗：4,497.40kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000060s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002706s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002723s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000152s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'patient',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/patient?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '10',
+  'filter' => '{}',
+  'op' => '{}',
+  '_' => '1601295769077',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001329s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000127s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/patient.php
+[ info ] [ RUN ] app\admin\controller\Patient->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Patient.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000074s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:53+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon?addtabs=1
+[运行时间：0.044237s] [吞吐率：22.61req/s] [内存消耗：4,532.80kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001860s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001881s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000186s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?ref=addtabs',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'addtabs' => '1',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000863s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000130s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ VIEW ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/view/addon/index.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+) ]
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @view_filter [ RunTime:0.000030s ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000074s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:53+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/ajax/lang?callback=define&controllername=addon&v=1601295773
+[运行时间：0.041931s] [吞吐率：23.85req/s] [内存消耗：4,485.34kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.001943s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001960s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000155s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'addon',
+  'v' => '1601295773',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001160s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000149s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Ajax.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000094s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:57+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon/downloaded?callback=jQuery224025968857864900685_1601295773653&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.0.0.20200506_beta%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=21116&token=a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172&version=1.0.0.20200506_beta&_=1601295773655
+[运行时间：2.337671s] [吞吐率：0.43req/s] [内存消耗：4,539.49kb] [文件加载：141]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002021s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002040s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000147s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224025968857864900685_1601295773653',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.0.0.20200506_beta"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '21116',
+  'token' => 'a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172',
+  'version' => '1.0.0.20200506_beta',
+  '_' => '1601295773655',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000838s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000166s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000115s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:22:59+08:00 ] 127.0.0.1 POST az-ips.com/TRDCIpiWJl.php/addon/state
+[运行时间：0.114422s] [吞吐率：8.74req/s] [内存消耗：4,939.16kb] [文件加载：153]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002811s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002829s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000155s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'state',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://az-ips.com',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'medical',
+  'action' => 'disable',
+  'force' => '0',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001328s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000150s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->state[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.004263s ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]unlink(/Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/.DS_Store): No such file or directory[/Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Service.php:458]
+[ error ] [2]unlink(/Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/model/MedicalPatientReport.php): No such file or directory[/Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Service.php:458]
+---------------------------------------------------------------
+[ 2020-09-28T20:22:59+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon/downloaded?callback=jQuery224025968857864900685_1601295773653&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.0.0.20200506_beta%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=21116&token=a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172&version=1.0.0.20200506_beta&_=1601295773656
+[运行时间：0.052740s] [吞吐率：18.96req/s] [内存消耗：4,474.43kb] [文件加载：139]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002339s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002358s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000269s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224025968857864900685_1601295773653',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.0.0.20200506_beta"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '21116',
+  'token' => 'a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172',
+  'version' => '1.0.0.20200506_beta',
+  '_' => '1601295773656',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001201s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000218s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000075s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:00+08:00 ] 127.0.0.1 POST az-ips.com/TRDCIpiWJl.php/index/index
+[运行时间：0.123509s] [吞吐率：8.10req/s] [内存消耗：4,678.50kb] [文件加载：153]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002366s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002384s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000164s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://az-ips.com',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?ref=addtabs',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001110s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000222s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.003442s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:00+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon/downloaded?callback=jQuery224025968857864900685_1601295773653&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.0.0.20200506_beta%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=21116&token=a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172&version=1.0.0.20200506_beta&_=1601295773657
+[运行时间：0.045006s] [吞吐率：22.22req/s] [内存消耗：4,474.43kb] [文件加载：139]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002104s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002122s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000162s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224025968857864900685_1601295773653',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.0.0.20200506_beta"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '21116',
+  'token' => 'a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172',
+  'version' => '1.0.0.20200506_beta',
+  '_' => '1601295773657',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001165s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000172s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000084s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:01+08:00 ] 127.0.0.1 POST az-ips.com/TRDCIpiWJl.php/addon/state
+[运行时间：0.067045s] [吞吐率：14.92req/s] [内存消耗：4,895.02kb] [文件加载：151]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002010s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002028s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000157s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'state',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '34',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://az-ips.com',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'medical',
+  'action' => 'enable',
+  'force' => '0',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000964s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000126s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->state[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.003317s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:01+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon/downloaded?callback=jQuery224025968857864900685_1601295773653&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.0.0.20200506_beta%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=21116&token=a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172&version=1.0.0.20200506_beta&_=1601295773658
+[运行时间：0.058884s] [吞吐率：16.98req/s] [内存消耗：4,506.93kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000018s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002957s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002983s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000188s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224025968857864900685_1601295773653',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.0.0.20200506_beta"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '21116',
+  'token' => 'a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172',
+  'version' => '1.0.0.20200506_beta',
+  '_' => '1601295773658',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001577s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000203s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000099s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:01+08:00 ] 127.0.0.1 POST az-ips.com/TRDCIpiWJl.php/index/index
+[运行时间：0.138392s] [吞吐率：7.23req/s] [内存消耗：4,711.29kb] [文件加载：154]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000020s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002960s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002983s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000165s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'content-length' => '18',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://az-ips.com',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?ref=addtabs',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'action' => 'refreshmenu',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000941s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000204s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.004134s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:01+08:00 ] 127.0.0.1 GET az-ips.com/TRDCIpiWJl.php/addon/downloaded?callback=jQuery224025968857864900685_1601295773653&sort=id&order=desc&offset=0&limit=50&filter=%7B%22type%22%3A%22local%22%2C%22faversion%22%3A%221.0.0.20200506_beta%22%7D&op=%7B%22type%22%3A%22%3D%22%2C%22faversion%22%3A%22%3D%22%7D&uid=21116&token=a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172&version=1.0.0.20200506_beta&_=1601295773659
+[运行时间：0.045586s] [吞吐率：21.94req/s] [内存消耗：4,506.93kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002070s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002088s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000142s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'addon',
+    2 => 'downloaded',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'az-ips.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36',
+  'content-type' => 'application/json',
+  'referer' => 'http://az-ips.com/TRDCIpiWJl.php/addon?addtabs=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=95e7c83c3a9e039e9d3f26cbf80c76cc; keeplogin=1%7C86400%7C1599535296%7Cb74cc5094da8d5e724f89fbd7cc9c5ed',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'jQuery224025968857864900685_1601295773653',
+  'sort' => 'id',
+  'order' => 'desc',
+  'offset' => '0',
+  'limit' => '50',
+  'filter' => '{"type":"local","faversion":"1.0.0.20200506_beta"}',
+  'op' => '{"type":"=","faversion":"="}',
+  'uid' => '21116',
+  'token' => 'a2bdc8e6-3849-4e45-9be3-9e0ee1cb6172',
+  'version' => '1.0.0.20200506_beta',
+  '_' => '1601295773659',
+)
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000855s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\third\Third @config_init [ RunTime:0.000122s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/admin/lang/zh-cn/addon.php
+[ info ] [ RUN ] app\admin\controller\Addon->downloaded[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/application/admin/controller/Addon.php ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000098s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-09-28T20:23:04+08:00 ] 127.0.0.1 POST az-ips.com/addons/cms/wxapp.user/getReport
+[运行时间：0.051969s] [吞吐率：19.24req/s] [内存消耗：4,134.34kb] [文件加载：142]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.002750s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002767s ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.000156s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\addons\\Route',
+    1 => 'execute',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=--------------------------169478892440612511537314',
+  'cache-control' => 'no-cache',
+  'postman-token' => '7a8507be-fb6c-45ba-93a2-304eea40e55e',
+  'user-agent' => 'PostmanRuntime/7.1.1',
+  'accept' => '*/*',
+  'host' => 'az-ips.com',
+  'accept-encoding' => 'gzip, deflate',
+  'content-length' => '519',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'token' => '9fcc9c14-4385-4771-8b31-79d5e5fbccd1',
+  'user_id' => '20',
+  'patient_id' => '19',
+  'type' => '1',
+  'addon' => 'cms',
+  'controller' => 'wxapp.user',
+  'action' => 'getReport',
+)
+[ info ] [ RUN ] think\addons\Route->execute[ /Applications/XAMPP/xamppfiles/htdocs/az/ips/vendor/karsonzhang/fastadmin-addons/src/addons/Route.php ]
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application/common/lang/zh-cn/addon.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @addon_begin [ RunTime:0.002489s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips//addons/cms/lang/zh-cn.php
+[ info ] [ LANG ] /Applications/XAMPP/xamppfiles/htdocs/az/ips/public/../application//index/lang/zh-cn/user.php
+[ info ] [ LOG ] INIT File
